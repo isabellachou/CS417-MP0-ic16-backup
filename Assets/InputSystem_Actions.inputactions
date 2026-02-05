@@ -514,6 +514,17 @@
                 },
                 {
                     "name": "",
+                    "id": "13889f2b-a901-4599-bd0e-4fad47ffce0c",
+                    "path": "<XRSimulatedController>{RightHand}/secondaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Quit",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
                     "id": "4bbacdca-7779-4b20-a69b-0055bf80a2cf",
                     "path": "<Keyboard>/l",
                     "interactions": "",
